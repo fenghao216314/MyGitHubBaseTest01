@@ -1,0 +1,2 @@
+# MyGitHubBaseTest01
+我新建的一个github上的远程仓库，用于IDEA本地拉取这个项目
